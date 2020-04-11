@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1add61b7-bf1e-4cfa-85dc-df23efd31f12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="116" />
+    <option name="y" value="26" />
+    <option name="width" value="1192" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectId" id="1aKrWGjDC8tvNnaQRHOZXnp4EAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583355170621" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObjects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstCucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1add61b7-bf1e-4cfa-85dc-df23efd31f12" name="Default Changelist" comment="" />
+      <created>1578182535329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578182535329</updated>
+      <workItem from="1578182539505" duration="3965000" />
+      <workItem from="1578764816994" duration="5984000" />
+      <workItem from="1578781520884" duration="2036000" />
+      <workItem from="1578786843339" duration="68000" />
+      <workItem from="1583355054405" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12316000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1855" y="-253" key="#Project_Structure" timestamp="1586495506418">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state x="1855" y="-253" key="#Project_Structure/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586495506418" />
+    <state width="1397" height="232" key="GridCell.Tab.0.bottom" timestamp="1586496532648">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586496532648" />
+    <state width="1397" height="232" key="GridCell.Tab.0.center" timestamp="1586496532647">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.center/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586496532647" />
+    <state width="1397" height="232" key="GridCell.Tab.0.left" timestamp="1586496532646">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.left/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586496532646" />
+    <state width="1397" height="232" key="GridCell.Tab.0.right" timestamp="1586496532647">
+      <screen x="1440" y="-426" width="1920" height="1057" />
+    </state>
+    <state width="1397" height="232" key="GridCell.Tab.0.right/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586496532647" />
+  </component>
+</project>

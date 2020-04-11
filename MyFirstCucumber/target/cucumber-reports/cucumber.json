@@ -1,0 +1,390 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1430453815,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Verify Home Page Loaded",
+        "description": "",
+        "id": "working-title;verify-home-page-loaded",
+        "after": [
+          {
+            "result": {
+              "duration": 78862776,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 529031581,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I open my Home Page",
+            "match": {
+              "location": "HomePageSteps.openHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 72389997,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Check the home page title is correct",
+            "match": {
+              "location": "HomePageSteps.verifyHomePageTitle()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@tag1"
+          },
+          {
+            "line": 4,
+            "name": "@reg"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 849646911,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Verify Home Page Loaded2",
+        "description": "",
+        "id": "working-title;verify-home-page-loaded2",
+        "after": [
+          {
+            "result": {
+              "duration": 79485194,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 434691757,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I open my Home Page",
+            "match": {
+              "location": "HomePageSteps.openHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 464539444,
+              "error_message": "java.lang.AssertionError\n\tat org.junit.Assert.fail(Assert.java:86)\n\tat org.junit.Assert.assertTrue(Assert.java:41)\n\tat org.junit.Assert.assertTrue(Assert.java:52)\n\tat com.platform.project.commons.Commons.check(Commons.java:51)\n\tat com.platform.project.steps.HomePageSteps.verifyHomePageTitle2(HomePageSteps.java:48)\n\tat ✽.Then Check the home page title is correct2(HomePage.feature:12)\n",
+              "status": "failed"
+            },
+            "line": 12,
+            "name": "Check the home page title is correct2",
+            "match": {
+              "location": "HomePageSteps.verifyHomePageTitle2()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@tag2"
+          },
+          {
+            "line": 9,
+            "name": "@reg"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 923563287,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.setUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Verify Home Page Loaded3",
+        "description": "",
+        "id": "working-title;verify-home-page-loaded3",
+        "after": [
+          {
+            "result": {
+              "duration": 81120559,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 428591234,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I open my Home Page",
+            "match": {
+              "location": "HomePageSteps.openHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 68411264,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Check that the home page title is Welcome to iBusiness",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Welcome to iBusiness",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.verifyHomePageTitle3(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 14,
+            "name": "@tag3"
+          },
+          {
+            "line": 14,
+            "name": "@reg"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 823689114,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.setUp()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Verify Home Page Loaded4",
+        "description": "",
+        "id": "working-title;verify-home-page-loaded4;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 78397770,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 422772003,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I open my Home Page",
+            "match": {
+              "location": "HomePageSteps.openHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 67958837,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Check that the home page title is Welcome to iBusiness",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Welcome to iBusiness",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.verifyHomePageTitle3(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tagF"
+          },
+          {
+            "line": 19,
+            "name": "@smoke"
+          },
+          {
+            "line": 19,
+            "name": "@tag4"
+          },
+          {
+            "line": 19,
+            "name": "@reg"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 831627832,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.setUp()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Verify Home Page Loaded4",
+        "description": "",
+        "id": "working-title;verify-home-page-loaded4;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 78129450,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HomePageSteps.cleanUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 426484672,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I open my Home Page",
+            "match": {
+              "location": "HomePageSteps.openHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 428440326,
+              "error_message": "java.lang.AssertionError\n\tat org.junit.Assert.fail(Assert.java:86)\n\tat org.junit.Assert.assertTrue(Assert.java:41)\n\tat org.junit.Assert.assertTrue(Assert.java:52)\n\tat com.platform.project.commons.Commons.check(Commons.java:51)\n\tat com.platform.project.steps.HomePageSteps.verifyHomePageTitle3(HomePageSteps.java:53)\n\tat ✽.Then Check that the home page title is Welcome to iBusiness2(HomePage.feature:22)\n",
+              "status": "failed"
+            },
+            "line": 22,
+            "name": "Check that the home page title is Welcome to iBusiness2",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Welcome to iBusiness2",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.verifyHomePageTitle3(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tagF"
+          },
+          {
+            "line": 19,
+            "name": "@smoke"
+          },
+          {
+            "line": 19,
+            "name": "@tag4"
+          },
+          {
+            "line": 19,
+            "name": "@reg"
+          }
+        ]
+      }
+    ],
+    "name": "Working Title",
+    "description": "",
+    "id": "working-title",
+    "keyword": "Feature",
+    "uri": "HomePage.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tagF"
+      }
+    ]
+  }
+]

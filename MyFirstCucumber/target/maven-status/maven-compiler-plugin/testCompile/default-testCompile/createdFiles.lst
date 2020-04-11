@@ -1,0 +1,7 @@
+com/platform/project/runner/TestRunner.class
+com/platform/project/commons/WebDriverManager.class
+com/platform/project/commons/ReadPropertyFile.class
+com/platform/project/pageObjects/HomePage.class
+com/platform/project/steps/Hooks.class
+com/platform/project/steps/HomePageSteps.class
+com/platform/project/commons/Commons.class

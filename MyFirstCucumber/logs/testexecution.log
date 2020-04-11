@@ -1,0 +1,27 @@
+2020-04-09 22:26:34,888, 0(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file forbrowser is chrome
+2020-04-09 22:26:34,891, 3(ms), [com.platform.project.commons.Commons] - Enviorment value for browser is equal to null
+2020-04-09 22:26:36,429, 1541(ms), [com.platform.project.pageObjects.HomePage] - Opening Home Page
+2020-04-09 22:26:36,924, 2036(ms), [com.platform.project.commons.Commons] - Welcome to iBusiness is visible
+2020-04-09 22:26:36,941, 2053(ms), [com.platform.project.commons.Commons] - Check condition is True
+2020-04-09 22:26:37,025, 2137(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file forbrowser is chrome
+2020-04-09 22:26:37,025, 2137(ms), [com.platform.project.commons.Commons] - Enviorment value for browser is equal to null
+2020-04-09 22:26:37,876, 2988(ms), [com.platform.project.pageObjects.HomePage] - Opening Home Page
+2020-04-09 22:26:38,365, 3477(ms), [com.platform.project.commons.Commons] - Welcome to iBusiness is visible
+2020-04-09 22:26:38,381, 3493(ms), [com.platform.project.commons.Commons] - Home Page did not match 
+2020-04-09 22:26:38,776, 3888(ms), [com.platform.project.commons.Commons] - Screenshot 2020-04-09_22:26:38_com.platform.project.steps.HomePageSteps_verifyHomePageTitle2.png taken
+2020-04-09 22:26:38,865, 3977(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file forbrowser is chrome
+2020-04-09 22:26:38,866, 3978(ms), [com.platform.project.commons.Commons] - Enviorment value for browser is equal to null
+2020-04-09 22:26:39,790, 4902(ms), [com.platform.project.pageObjects.HomePage] - Opening Home Page
+2020-04-09 22:26:40,274, 5386(ms), [com.platform.project.commons.Commons] - Welcome to iBusiness is visible
+2020-04-09 22:26:40,289, 5401(ms), [com.platform.project.commons.Commons] - Check condition is True
+2020-04-09 22:26:40,376, 5488(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file forbrowser is chrome
+2020-04-09 22:26:40,376, 5488(ms), [com.platform.project.commons.Commons] - Enviorment value for browser is equal to null
+2020-04-09 22:26:41,201, 6313(ms), [com.platform.project.pageObjects.HomePage] - Opening Home Page
+2020-04-09 22:26:41,677, 6789(ms), [com.platform.project.commons.Commons] - Welcome to iBusiness is visible
+2020-04-09 22:26:41,694, 6806(ms), [com.platform.project.commons.Commons] - Check condition is True
+2020-04-09 22:26:41,776, 6888(ms), [com.platform.project.commons.ReadPropertyFile] - Value in property file forbrowser is chrome
+2020-04-09 22:26:41,776, 6888(ms), [com.platform.project.commons.Commons] - Enviorment value for browser is equal to null
+2020-04-09 22:26:42,609, 7721(ms), [com.platform.project.pageObjects.HomePage] - Opening Home Page
+2020-04-09 22:26:43,084, 8196(ms), [com.platform.project.commons.Commons] - Welcome to iBusiness is visible
+2020-04-09 22:26:43,099, 8211(ms), [com.platform.project.commons.Commons] - Home Page did not match 
+2020-04-09 22:26:43,465, 8577(ms), [com.platform.project.commons.Commons] - Screenshot 2020-04-09_22:26:43_com.platform.project.steps.HomePageSteps_verifyHomePageTitle3.png taken

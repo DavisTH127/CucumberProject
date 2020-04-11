@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: com.platform.project.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 10.185 sec <<< FAILURE!
+Then Check the home page title is correct2(Scenario: Verify Home Page Loaded2)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.platform.project.commons.Commons.check(Commons.java:51)
+	at com.platform.project.steps.HomePageSteps.verifyHomePageTitle2(HomePageSteps.java:48)
+	at ✽.Then Check the home page title is correct2(HomePage.feature:12)
+
+Scenario: Verify Home Page Loaded2  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.platform.project.commons.Commons.check(Commons.java:51)
+	at com.platform.project.steps.HomePageSteps.verifyHomePageTitle2(HomePageSteps.java:48)
+	at ✽.Then Check the home page title is correct2(HomePage.feature:12)
+
+Then Check that the home page title is Welcome to iBusiness2(| Welcome to iBusiness2 |)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.platform.project.commons.Commons.check(Commons.java:51)
+	at com.platform.project.steps.HomePageSteps.verifyHomePageTitle3(HomePageSteps.java:53)
+	at ✽.Then Check that the home page title is Welcome to iBusiness2(HomePage.feature:22)
+
+| Welcome to iBusiness2 |  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.platform.project.commons.Commons.check(Commons.java:51)
+	at com.platform.project.steps.HomePageSteps.verifyHomePageTitle3(HomePageSteps.java:53)
+	at ✽.Then Check that the home page title is Welcome to iBusiness2(HomePage.feature:22)
+
